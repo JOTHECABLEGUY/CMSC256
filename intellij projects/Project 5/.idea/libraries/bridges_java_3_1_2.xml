@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="bridges-java-3.1.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bridges-java-3.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/bridges-java-3.1.2.jar!/" />
+    </SOURCES>
+  </library>
+</component>
